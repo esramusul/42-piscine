@@ -1,23 +1,25 @@
 # 🚀 42-piscine
 
-Bu proje repository dosyalarını ve kaynak kodlarını içerir.
+This repository contains project source code and assets.
 
 ---
 
-## 📌 Proje Özeti & Teknolojiler
+## 📌 Project Overview
 
-- **Geliştirici:** [esramusul](https://github.com/esramusul)
-- **Algılanan Teknolojiler:** `C`
-- **Ana Dil:** `C`
-- **Oluşturulma Tarihi:** 2024-09-02
-- **Lisans:** Belirtilmemiş
+- **Developer:** [esramusul](https://github.com/esramusul)
+- **Tech Stack:** `C`
+- **Primary Language:** `C`
+- **Created Date:** 2024-09-02
+- **Default Branch:** `main`
+- **License:** Not specified
 
 ---
 
-## 📁 Proje Dosya Yapısı
+## 📁 Repository Structure
 
 ```text
 42-piscine/
+├── README.md
 ├── c00
 ├── c01
 ├── c01_main
@@ -27,40 +29,40 @@ Bu proje repository dosyalarını ve kaynak kodlarını içerir.
 ├── c03_main
 ├── c04
 ├── c04_main
-├── c05
-└── ... (ve 9 dosya daha)
+└── ... (10 more files)
 ```
 
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
+## ⚙️ Getting Started
 
-### 1. Depoyu İndirin
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/esramusul/42-piscine.git
 cd 42-piscine
 ```
 
-### 2. Bağımlılıkları Yükleyin
+### 2. Install Dependencies
 ```bash
-Proje bağımlılıklarını ilgili paket yöneticisi ile kurun.
+Install dependencies using your project package manager.
 ```
 
-### 3. Uygulamayı Çalıştırın
+### 3. Run the Project
 ```bash
-Projenin ana giriş noktasını çalıştırın.
+Run the main entry point file of the application.
 ```
 
 ---
 
-## 🤝 Katkıda Bulunma
+## 🤝 Contributing
 
-1. Depoyu forklayın (`Fork`)
-2. Yeni bir dal açın (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: yeni özellik'`)
-4. Dalınıza push edin (`git push origin feature/yeni-ozellik`)
-5. Bir **Pull Request** oluşturun
+Contributions, issues, and feature requests are welcome!
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'feat: Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
-*Otomatik olarak [GitHub Smart README Updater](https://github.com/) tarafından projenizin dosya yapısı incelenerek oluşturulmuştur.*
+*Automatically generated and maintained with [GitHub Smart README Updater](https://github.com/).*
